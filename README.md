@@ -3,8 +3,8 @@ Harmless Ranson Note Problem
 **What is Harmless Ransom Note Problem**
 ```
      function findRansonNote(text,mazine){
-        // Neeed to find text words inside the mazine or not
+        // Is it possible to contsruct the note from magazine based on what is text(param) contains.
      }
 
 ```
-## For more information see the harmlessransonnote branch
+## For more information see the harmlessransonnote.js
