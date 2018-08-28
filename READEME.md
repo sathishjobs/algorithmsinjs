@@ -4,7 +4,7 @@ Harmless Ranson Note Problem
 ```
      function findRansonNote(text,mazine){
         // Neeed to find text words inside the mazine or not
-    }
+     }
 
 ```
 ## For more information see the harmlessransonnote branch
