@@ -45,10 +45,6 @@ function getMode(array){
         }
         else if(modeObj[num] === maxFrequency) modes.push(num)
     }
-    console.log('length');
-    console.log(modeObj);
-    console.log('object keys');
-    console.log(Object.keys(modeObj).length)
     //if every value appears same amount of times 
     if(modes.length === Object.keys(modeObj).length) modes = [];
     return modes;
